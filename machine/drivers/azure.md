@@ -65,7 +65,7 @@ Optional:
 - `--azure-vnet`: Azure Virtual Network name to connect the virtual machine.
   [[?][vnet]] To specify a Virtual Network from another resource group, use `resourcegroup:vnet-name` format.
 
-[vm-image]: https://azure.microsoft.com/en-us/documentation/articles/resource-groups-vm-searching/
+[vm-image]: https://docs.microsoft.com/en-us/azure/virtual-machines/windows/cli-ps-findimage
 [location]: https://azure.microsoft.com/en-us/regions/
 [vm-size]:  https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-size-specs/
 [vnet]:     https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-overview/
